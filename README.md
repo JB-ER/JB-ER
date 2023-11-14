@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JB-ER
-- 🌱 I’m currently learning c++.
+- I’m currently learning rust!! yay.
 - 📫 If you have any bigger questions just send me an e-mail.
 
 <!---
