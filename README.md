@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @JB-ER
-- I’m currently learning rust!! yay.
-- 📫 If you have any bigger questions just send me an e-mail.
+- Hi, I’m cube
+- I’m currently learning godot!! yay.
 
 <!---
 JB-ER/JB-ER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
