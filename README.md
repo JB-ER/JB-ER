@@ -1,5 +1,5 @@
 - Hi, I’m cube
-- I’m currently learning godot!! yay.
+- I’m currently learning godot!
 
 <!---
 JB-ER/JB-ER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
